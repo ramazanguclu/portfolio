@@ -12,7 +12,7 @@ export default [
         companyLink: 'https://www.wissenakademie.com',
         startDate: 'September 2015',
         endDate: 'February 2016',
-        projects: ['https://github.com/hakanozer/SporSalonuOtomasyonu', 'Proje Linki: https://github.com/hakanozer/.Net-E-Ticaret-Y-netimi.git', 'https://github.com/ramazanguclu/HepsiOrada', 'https://github.com/ramazanguclu/UrunOtomasyonu', 'https://github.com/ramazanguclu/TextEditor', 'https://github.com/ramazanguclu/OgrenciDersAtama', 'https://github.com/ramazanguclu/AdamAsmacaOyunu'],
+        projects: ['https://github.com/hakanozer/SporSalonuOtomasyonu', 'https://github.com/hakanozer/.Net-E-Ticaret-Y-netimi.git', 'https://github.com/ramazanguclu/HepsiOrada', 'https://github.com/ramazanguclu/UrunOtomasyonu', 'https://github.com/ramazanguclu/TextEditor', 'https://github.com/ramazanguclu/OgrenciDersAtama', 'https://github.com/ramazanguclu/AdamAsmacaOyunu'],
         learnedTech: 'C#, OOP, .Net, Asp.Net MVC, jQuery, Html, Css, MSSql, Entity Framework'
     }
 ]

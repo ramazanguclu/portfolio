@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
 class Card extends Component {
-    
+
     renderProjects(data) {
         return data.map((v, k) => {
             return (
-                <div key={k}>
-                    <a className="black-text text-lighten-4" href={v}>{v}</a><br />
+                <div className="truncate red-text text-lighten-4" key={k}>
+                    <a href={v}>{v}</a><br />
                 </div>
             )
         });
