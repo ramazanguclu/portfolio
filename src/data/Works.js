@@ -1,12 +1,21 @@
 export default [
     {
+        company: 'Luteg',
+        companyLink: 'http://luteg.com',
+        startDate: 'September 2018',
+        endDate: 'November 2018',
+        position: 'Software Developer',
+        projects: 'Multiportal Devices',
+        usedTech: 'Nodejs(Sailsjs), bootstrap, Less, Html, Css, mongodb'
+    },
+    {
         company: 'Vestek',
         companyLink: 'http://vestek.com.tr',
         startDate: 'June 2017',
         endDate: 'July 2018',
         position: 'Software Developer',
         projects: 'RFHotelTV, MemorialTV',
-        usedTech: '.Net, Javascript, python(django), jQuery, Html, Css, MSSql, Entity Framework'
+        usedTech: 'Javascript, python(django), jQuery, Html, Css, .Net, MSSql, Entity Framework'
     },
     {
         company: 'Insider',

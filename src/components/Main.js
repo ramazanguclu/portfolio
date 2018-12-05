@@ -20,7 +20,7 @@ class Main extends Component {
         return (
             <div className="container">
                 <div className="row">
-                    <div className="col s12 m9 l10">
+                    <div className="col s12">
                         {this.renderSections()}
                     </div>
                 </div>
